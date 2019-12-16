@@ -1,2 +1,2 @@
-# tools_shop
-Adaptive markup (mobile-first)
+# JazzPixels
+MobileFirst, customized Google map, vanilla JS
